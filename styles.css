@@ -228,15 +228,7 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 
-#SSC fieldset {
-  border: #000000 solid 2px;
-  padding: 8px 10px;
-  margin: 5px;
-}
 
-#SSC legend {
-  all: unset;
-  font-size: 1.2rem;
 }
 
 #HSC fieldset {
